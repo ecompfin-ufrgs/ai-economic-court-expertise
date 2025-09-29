@@ -6,7 +6,8 @@ Este site apresenta o material referente às apresentações realizadas pelo <a 
 
 As participações são as seguintes:
 
-[A Inteligência Artificial na Perícia Econômica e Financeira](ai-economic-court-expertise.md)
+[A Inteligência Artificial na Perícia Econômica e Financeira](pericia/ai-economic-court-expertise.md)
 
-[Desafios e Oportunidades para o Economista no mundo da Inteligência Artificial](challenges-opportunities-economists-ai.md)
+[Desafios e Oportunidades para o Economista no mundo da Inteligência Artificial](desafios/challenges-opportunities-economists-ai.md)
+
 
