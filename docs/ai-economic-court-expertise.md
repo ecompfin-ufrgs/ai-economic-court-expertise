@@ -9,6 +9,6 @@ Lecture for the XXVI Brazilian Congress of Economics - 2025
 4. [Modelo analítico]()
 5. [Efeitos da inteligência artificial na atividade de perícia econômico-financeira]()
 6. [Cenários e discussão]()
-7. Considerações finais]()
+7. [Considerações finais]()
 
 [Anterior](index.md)    [Próximo](introducao.md)
