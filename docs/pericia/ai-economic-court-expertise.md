@@ -12,4 +12,5 @@ Lecture for the XXVI Brazilian Congress of Economics - 2025
 6. [Cenários e discussão](cenarios.md)
 7. [Considerações finais](conclusao.md)
 
-[Anterior](index.md)    [Próximo](introducao.md)
+[Anterior](../index.md)    [Próximo](introducao.md)
+
