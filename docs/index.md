@@ -2,7 +2,7 @@
 
 Benvindo!
 
-Este site apresenta o material referente às apresentações realizadas pelo [Prof. Nelson Seixas dos Santos](https://professor.ufrgs.br/nelsonseixas/) no XXVI Congresso Brasileiro de Economia realizado em Porto Alegre em outubro de 2025.
+Este site apresenta o material referente às apresentações realizadas pelo [Prof. Nelson Seixas dos Santos](https://professor.ufrgs.br/nelsonseixas/) no [XXVI Congresso Brasileiro de Economia realizado em Porto Alegre em outubro de 2025](https://cbe.cofecon.org/#evento).
 
 [A Inteligência Artificial na Perídica Econômica e Financeira](ai-economic-court-expertise.md)
 
