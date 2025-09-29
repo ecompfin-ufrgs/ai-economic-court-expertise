@@ -2,7 +2,7 @@
 
 Benvindo!
 
-Este site apresenta o material referente às apresentações realizadas pelo [Prof. Nelson Seixas dos Santos](https://professor.ufrgs.br/nelsonseixas/) no [XXVI Congresso Brasileiro de Economia realizado em Porto Alegre em outubro de 2025](https://cbe.cofecon.org/#evento).
+Este site apresenta o material referente às apresentações realizadas pelo <a href="https://professor.ufrgs.br/nelsonseixas/" target="_blank">Prof. Nelson Seixas dos Santos</a> no <a href="https://cbe.cofecon.org/#evento" target="_blank"> XXVI Congresso Brasileiro de Economia</a> realizado em Porto Alegre em outubro de 2025.
 
 As participações são as seguintes:
 
