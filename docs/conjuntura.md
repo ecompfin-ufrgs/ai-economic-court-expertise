@@ -2,4 +2,4 @@
 
 O uso de inteligências artificiais no auxílio das mais diversas atividades
 
-[Anterior](conceitos.md)    [Próximo](modelo.md)
+[Anterior](literatura.md)    [Próximo](modelo.md)
