@@ -14,4 +14,4 @@ Além disso, apresenta-se um exercício de uso de duas inteligências artificiai
 2. <a href="https://gamma.app" target="_blank"> Gamma App </a>
 
 
-[Anterior](revisao.md)    [Próximo](material_metodos.md)
+[Anterior](modelo.md)    [Próximo](material_metodos.md)
