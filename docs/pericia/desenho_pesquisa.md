@@ -6,5 +6,8 @@ As escolha das bases de dados bibliográficas do Google Acadêmico e do Ideas Re
 
 Os artigos coletados foram, então, resumidos e, a partir destes, produziram-se os resultados aqui relatados.  Ao mesmo tempo, a partir dos objetos Web coletados pelo Google, lista-se um conjunto de inteligências artificiais atualmente disponíveis gratuitamente que podem ser úteis ao trabalho do perito economista de diversas formas.
 
-Além disso, apresenta-se um exercício de uso de uma inteligência artificial particularmente útil ao trabalho de peritos economistas, qual seja:  <a href="https://notebooklm.google.com/" target="_blank">Google Notebook LM</a> a título de exemplificação do tipo de auxílio que os peritos economistas podem obter em seu trabalho.
+Além disso, apresenta-se um exercício de uso de duas inteligências artificiais particularmente úteis ao trabalho de peritos economistas, quais sejam:
+
+1. <a href="https://notebooklm.google.com/" target="_blank">Google Notebook LM</a> a título de exemplificação do tipo de auxílio que os peritos economistas podem obter em seu trabalho.
+2. <a href="https://gamma.app" target="_blank"> Gamma App </a>
 
