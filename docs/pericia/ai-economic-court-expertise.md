@@ -4,7 +4,7 @@ Lecture for the XXVI Brazilian Congress of Economics - 2025
 
 ## Sumário
 
-1. [Introdução](introducao.md)
+1. [Contexto do problema](contexto.md)
 2. [Conceitos básicos de perícia economica e de inteligência artificial](conceitos.md)
 3. [Conjuntura nacional e internacional](conjuntura.md)
 4. [Modelo analítico](modelo.md)
@@ -13,4 +13,5 @@ Lecture for the XXVI Brazilian Congress of Economics - 2025
 7. [Considerações finais](conclusao.md)
 
 [Anterior](../index.md)    [Próximo](introducao.md)
+
 
