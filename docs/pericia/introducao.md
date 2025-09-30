@@ -46,7 +46,7 @@ Se refizermos a busca neste momento, encontraremos os seguintes resultados:
 
 - <a href="https://scholar.google.com.br/scholar?q=%22artificial+intelligence%22+%22court+economic+expert%22&hl=pt-BR&as_sdt=0,5&as_vis=1" target="_blank"> Busca Google Scholar pela palavras-chave: "artificial intelligence" "court economic expert"</a>
 
-- <a ref="https://ideas.repec.org/cgi-bin/htsearch2" target="_blank">Busca IDEAS Repec pela palavras-chave: "artificial intelligence" "court economic expert" </a>
+- <a href="https://ideas.repec.org/cgi-bin/htsearch2" target="_blank">Busca IDEAS Repec pela palavras-chave: "artificial intelligence" "court economic expert" </a>
 
 
 
@@ -65,6 +65,7 @@ Isto sugere que a academia não tem entendido o fenômeno da inteligência artif
 Esclarecer aos economistas profissionais as capacidades, limites técnicos e éticos da inteligência artificial na área de perícia econômica e financeira
 
 [Anterior](ai-economic-court-expertise.md)    [Próximo](conceitos.md)
+
 
 
 
