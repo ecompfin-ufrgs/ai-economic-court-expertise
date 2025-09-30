@@ -7,11 +7,10 @@ Podemos afirmar sobre as inteligências artificiais no trabalho do perito econom
 - O entneidmento das boas práticas de peritagem e do funcionamento básico de algoritmos de inteligência artificial serão ainda mais importantes para avaliar o trabalho que, por ventura, seja delegado a inteligências artifciais.
 - Ainda há um longo caminho até inteligências artificiais gerais tais como a mostrada abaixo:
 - 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2D9FfPyebss?si=zreLSsbEXokOdJhk&amp;clip=UgkxtgjdmSBniV8QE4SkD0pj7jDpFWlE2-jf&amp;clipt=EPirDhiA0w4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 [Anterior](resultados.md)    [Próximo](../index.md)
+
 
 
 
