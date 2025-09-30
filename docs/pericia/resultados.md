@@ -20,3 +20,4 @@ Isto sugere que a academia não tem entendido o fenômeno da inteligência artif
 No IDEAS Repec, nada aparece mais uma vez, indicando que a academia de ciências econômicas realmente não vê questões relevantes no emprego de inteligências artificiais no trabalho de perícia econômica.
 
 
+[Anterior](material_metodos.md)    [Próximo](conclusao.md)
