@@ -66,3 +66,4 @@ Esclarecer aos economistas profissionais as capacidades, limites técnicos e ét
 
 [Anterior](ai-economic-court-expertise.md)    [Próximo](conceitos.md)
 
+
