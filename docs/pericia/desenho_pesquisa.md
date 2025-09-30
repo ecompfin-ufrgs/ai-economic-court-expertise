@@ -1,5 +1,7 @@
 # Desenho da pesquisa
 
+## Procedimento
+
 Realizou-se busca nas bases de dados bibliográficas do [Google Acadêmico]() e [Ideas Repec]() e, além delas, utilizou-se também o [Google]() para outros tipos de documentos de caráter não necessariamente acadêmico.
 
 As escolha das bases de dados bibliográficas do Google Acadêmico e do Ideas Repec se deve ao fato de estas serem, respectivamente, as maiores bases acadêmica geral e acadêmica em economia da atualidade.  Quanto ao Google, este é sabidamente o maior indexador de objetos na Internet atualmente.
