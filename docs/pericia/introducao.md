@@ -52,7 +52,7 @@ Se refizermos a busca neste momento, encontraremos os seguintes resultados:
 
 Isto sugere que a academia não tem entendido o fenômeno da inteligência artificial como relevante para a atividade do perito economista. No entanto, quando se inativa a restrição de busca por expressão idêntica, isto é, quando se retiram as aspas da busca, surgem cerca de 119.000 resultados.  Senão vejamos:
 
-[[Busca pela palavras-chave: artificial intelligence court economic expert](https://scholar.google.com.br/scholar?q=artificial+intelligence+court+economic+expert&hl=pt-BR&as_sdt=0&as_vis=1&oi=scholart)
+[Busca pela palavras-chave: artificial intelligence court economic expert](https://scholar.google.com.br/scholar?q=artificial+intelligence+court+economic+expert&hl=pt-BR&as_sdt=0&as_vis=1&oi=scholart)
 
 
 
@@ -65,6 +65,7 @@ Isto sugere que a academia não tem entendido o fenômeno da inteligência artif
 Esclarecer aos economistas profissionais as capacidades, limites técnicos e éticos da inteligência artificial na área de perícia econômica e financeira
 
 [Anterior](ai-economic-court-expertise.md)    [Próximo](conceitos.md)
+
 
 
 
