@@ -4,8 +4,9 @@
 - A revolução tecnológica mais recente que afetou a vida do trabalho de todos e, em particular dos economistas, foi a Internet.
 - Muitos diziam que elas acabariam com a necessidade de váriso profissionais, pois **todo o conhecimento do mundo está na Internet**.
 - Na verdade, o conteúdo ficou mais acessível, fazendo com que o diferencial do profissionais seja o domínio da nova tecnologia para seu trabalho e a capacidade analítica do profissional: meramente decorar conteúdos deixou de servir ao profissional
-- Este é - parece - sempre o efeito das novas tecnologias: os profissionais têm que conhecê-las e integrá-las aos seus fluxos de trabalho de modo a potencializar a eficiência de suas atividades.
+- Este é o efeito das novas tecnologias: os profissionais têm que conhecê-las e integrá-las aos seus fluxos de trabalho de modo a potencializar a eficiência de suas atividades.
 
 
-[Anterior](conjuntura.md)    [Próximo](efeitos.md)
+[Anterior](revisao.md)    [Próximo](procedimento.md)
+
 
