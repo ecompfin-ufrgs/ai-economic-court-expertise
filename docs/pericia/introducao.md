@@ -35,7 +35,7 @@ Não há necessidade de materiais específicos para realização da busca e, com
 
 Para o uso da Google Notebook LM, basta possuir uma conta gratuita do Google.
 
-### Dados
+### Resultados e discussão
 
 Em pesquisa realizada às 8h44m (horário de Brasília) tanto no Google Acadêmico quanto no Repec não apareceu qualquer resultado para a pesquisa com as palavras-chave em inglês.  Veja os resultados desta busca:
 
@@ -54,9 +54,7 @@ Isto sugere que a academia não tem entendido o fenômeno da inteligência artif
 
 [Busca pela palavras-chave: artificial intelligence court economic expert](https://scholar.google.com.br/scholar?q=artificial+intelligence+court+economic+expert&hl=pt-BR&as_sdt=0&as_vis=1&oi=scholart)
 
-
-
-### Resultados e discussão
+No IDEAS Repec, nada aparece mais uma vez, indicando que a academia de ciências econômicas realmente não vê questões relevantes no emprego de inteligências artificiais no trabalho de perícia econômica.
 
 
 
@@ -65,6 +63,7 @@ Isto sugere que a academia não tem entendido o fenômeno da inteligência artif
 Esclarecer aos economistas profissionais as capacidades, limites técnicos e éticos da inteligência artificial na área de perícia econômica e financeira
 
 [Anterior](ai-economic-court-expertise.md)    [Próximo](conceitos.md)
+
 
 
 
