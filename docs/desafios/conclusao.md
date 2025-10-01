@@ -7,6 +7,9 @@ Em suma, não precisamos temer o:
 </font>
 </div>
 
+<p></p>
+<br/>
+
  Por enquanto ...
  
 [Anterior](resultados.md)    [Próximo](../index.md)
