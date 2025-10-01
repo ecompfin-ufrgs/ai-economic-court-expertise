@@ -9,11 +9,12 @@ Podemos afirmar sobre as inteligências artificiais no trabalho do perito econom
 
 <div style='text-align:center;'><font size="5">
  <a href="https://www.youtube.com/embed/2D9FfPyebss?si=zreLSsbEXokOdJhk&amp;clip=UgkxtgjdmSBniV8QE4SkD0pj7jDpFWlE2-jf&amp;clipt=EPirDhiA0w4">Exterminador de Economistas</a>
-</font>font>
+</font>
 </div>
 
  
 [Anterior](resultados.md)    [Próximo](../index.md)
+
 
 
 
