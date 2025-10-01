@@ -15,3 +15,4 @@ inteligência artificial atuais ainda são bastante rudimentares em agregar sens
 ("educated guess") para escolher entre alternativas de modelos de análise ou mesmo na confiança a que se deve 
 atribuir a parâmetros de um modelo, levando em conta, inclusive, a plausibilidade das previsões.
 
+[Anterior](challenges-opportunities-economistas.md)    [Próximo](problema.md)
