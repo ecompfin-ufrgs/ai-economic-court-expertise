@@ -13,7 +13,8 @@ Lecture for the XXVI Brazilian Congress of Economics - 2025
 7. [Resultados e discussão](resultados.md)
 8. [Considerações finais](conclusao.md)
 
-[Anterior](../index.md)    [Próximo](introducao.md)
+[Anterior](../index.md)    [Próximo](contexto.md)
+
 
 
 
