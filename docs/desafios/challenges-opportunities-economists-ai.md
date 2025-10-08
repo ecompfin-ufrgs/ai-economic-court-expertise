@@ -3,7 +3,7 @@
 Panel on the XXVI Brazilian Congress of Economics - 2025
 
 ## Sumário
-<!--
+
 - [Contexto do problema](contexto.md)
 - [Problema](problema.md)
 - <!-- [Revisão sumária de literatura](revisao.md) -->
@@ -13,7 +13,7 @@ Panel on the XXVI Brazilian Congress of Economics - 2025
 - [Resultados e discussão](resultados.md)
 - [Considerações finais](conclusao.md)
 
--->
+
 [Anterior](../index.md)    [Próximo](contexto.md)
 
 
