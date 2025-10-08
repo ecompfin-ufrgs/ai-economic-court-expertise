@@ -6,7 +6,7 @@ Panel on the XXVI Brazilian Congress of Economics - 2025
 
 - [Contexto do problema](contexto.md)
 - [Problema](problema.md)
-- <!-- [Revisão sumária de literatura](revisao.md) -->
+<!-- [Revisão sumária de literatura](revisao.md) -->
 - [Uma analogia](modelo.md)
 - [Desenho da pesquisa: procedimento](procedimento.md)
 - [Desenho da pesquisa: material e métodos](material_metodos.md)
