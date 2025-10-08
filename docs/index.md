@@ -5,10 +5,10 @@ Este site apresenta o material referente à palestra proferida pelo <a href="htt
 
 Veja seu conteúdo no link abaixo.
 
-[A Inteligência Artificial na Perícia Econômica e Financeira](pericia/ai-economic-court-expertise.md)
+- [A Inteligência Artificial na Perícia Econômica e Financeira](pericia/ai-economic-court-expertise.md)
 
--
-[Desafios e Oportunidades para o Economista no mundo da Inteligência Artificial](desafios/challenges-opportunities-economists-ai.md)
+- [Desafios e Oportunidades para o Economista no mundo da Inteligência Artificial](desafios/challenges-opportunities-economists-ai.md)
+
 
 
 
