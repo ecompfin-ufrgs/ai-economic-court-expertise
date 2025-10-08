@@ -7,7 +7,7 @@
 - Este é o efeito das novas tecnologias: os profissionais têm que conhecê-las e integrá-las aos seus fluxos de trabalho de modo a potencializar a eficiência de suas atividades.
 
 
-[Anterior](revisao.md)    [Próximo](procedimento.md)
+[Anterior](problema.md)    [Próximo](resultados.md)
 
 
 
