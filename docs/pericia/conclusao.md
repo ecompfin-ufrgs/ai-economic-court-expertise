@@ -4,7 +4,7 @@ Podemos afirmar sobre as inteligências artificiais no trabalho do perito econom
 
 - São muito úteis e vieram para ficar.
 - Dificilmente, serão capazes de substituir os peritos nos próximos 15 ou 20 anos, mas servirão para facilitar-lhes o trabalho e serão um diferencial competitivo poderoso entre os profissionais
-- O entneidmento das boas práticas de peritagem e do funcionamento básico de algoritmos de inteligência artificial serão ainda mais importantes para avaliar o trabalho que, por ventura, seja delegado a inteligências artifciais.
+- O entendimento das boas práticas de peritagem e do funcionamento básico de algoritmos de inteligência artificial serão ainda mais importantes para avaliar o trabalho que, por ventura, seja delegado a inteligências artifciais.
 - Ainda há um longo caminho até inteligências artificiais gerais tais como a mostrada abaixo:
 
 <div style='text-align:center;'><font size="7">
@@ -14,6 +14,7 @@ Podemos afirmar sobre as inteligências artificiais no trabalho do perito econom
 
  
 [Anterior](resultados.md)    [Próximo](../index.md)
+
 
 
 
