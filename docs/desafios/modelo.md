@@ -1,4 +1,4 @@
-# Modelo Analítico
+# Uma analogia
 
 - Para entender o impacto das inteligências artificiais na conjuntura e nos cenários do perito economistas, precisamos compreender que a inteligência artificial se constitui em apenas mais uma fase das revolução tecnológica que impulsiona todas as Reveoluções Industriais.
 - A revolução tecnológica mais recente que afetou a vida do trabalho de todos e, em particular dos economistas, foi a Internet.
