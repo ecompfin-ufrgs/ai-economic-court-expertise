@@ -10,6 +10,6 @@ Em suma, não precisamos temer o:
 <p></p>
 <br/>
 
- AO MENOS, POR ENQUANTO ...
+ Ao menos... POR ENQUANTO ...
  
 [Anterior](resultados.md)    [Próximo](../index.md)
